@@ -43,17 +43,6 @@ let office={
 }
 console.log(office.branch);
 
-//fifth object
-
-let valueRetrun={
-    first : "emty",
-    obj1 :{
-       value1:{
-        id: 100
-       }
-       
-    }
-}
 
 
 
